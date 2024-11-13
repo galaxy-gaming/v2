@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "name": "gx2",
+  "version": "1.0.0",
+  "main": "server.js", 
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Zontraz, L1FE, Extraskilled56",
+  "license": "MIT",
+  "description": ""
+}

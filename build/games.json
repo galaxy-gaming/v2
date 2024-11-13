@@ -1,0 +1,14 @@
+{
+    "smallworldcup": {
+        "name": "A Small World Cup",
+        "directory": "smallworldcup"
+    },
+    "tunnelrush": {
+        "name": "Tunnel Rush",
+        "directory": "tunnelrush"
+    },
+    "xx142-b2exe": {
+        "name": "xx142-b2.exe",
+        "directory": "xx142-b2exe"
+    }
+}
